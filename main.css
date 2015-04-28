@@ -1,0 +1,33 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	height: 100vh;
+	background-color: #161515;
+}
+
+.full {
+	height: 100vh;
+	width: 100%;
+}
+
+.full .text {
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+	opacity: 0.99;
+	width:600px;
+}
+
+p {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	color: #B5EAC6;
+}
+
+a {
+	text-decoration: none;
+	color: #B5DDEA;
+}
