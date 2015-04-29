@@ -1,33 +1,70 @@
 * {
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
 }
 
-body {
-	height: 100vh;
-	background-color: #161515;
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-.full {
-	height: 100vh;
-	width: 100%;
-}
-
-.full .text {
-	margin: 12px;
-	padding: 12px;
-	display: inline-block;
-	opacity: 0.99;
-	width:600px;
-}
-
-p {
-	font-family: 'Source Code Pro', Courier, monospace;
-	font-size: 14px;
-	color: #B5EAC6;
+body, html {
+  background-color: #fff;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
-	text-decoration: none;
-	color: #B5DDEA;
+	color: white;
 }
+
+.maps {
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  min-width: 750px;
+  min-height: 750px;
+  
+}
+
+.maps .col {
+	padding: 16px;
+	width: 250px;
+	height: 100%;
+	background-color:rgba(0,0,0,0.86);
+}
+
+.maps .col p {
+	font-family: 'Source Code Pro', Courier, monospace;
+    font-size: 14px;
+    text-shadow: 0 0 1px rgba(0,0,0,0.6), 1px 1px 2px rgba(0,0,0,0.35);
+}
+
+
+.maps .text {
+    background-color: #000;
+	opacity: 0.86;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.maps .text p {
+    font-size: 11px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+    text-shadow: 0 0 1px rgba(0,0,0,0.6), 1px 1px 2px rgba(0,0,0,0.35);
+}  
+  
