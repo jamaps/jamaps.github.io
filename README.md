@@ -1,4 +1,9 @@
-##jamaps.github.io
+####jamaps.github.io
 =======================
-Under Construction...
+This is my github page.  It is still under construction.
+
+The images included are &copy Jeff Allen.
+
+Contact: jeff.allen AT mail.utoronto.ca
+
 
