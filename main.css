@@ -55,8 +55,8 @@ a {
 .top img {
 	position: absolute;
 	top: 62%;
-	left: 50%;
-	margin-right: -50%;
+	margin-left: auto;
+	margin-right: auto;
 	transform: translate(-50%, -50%);
 	filter: alpha(opacity=50);  /* IE 5-7 */
 	-moz-opacity: 0.5;          /* Netscape */
