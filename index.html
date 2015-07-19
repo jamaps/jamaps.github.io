@@ -232,7 +232,7 @@
 	function Random (min, max) {
 	    return Math.floor(Math.random() * (max - min + 1)) + min;
 	}
-	// link random number to array and call item to css and html (title and footer)
+	// link random number to array of maps and then call to css
 	$(document).ready(function() {
 		var map_number = Random(0, background_maps.length - 1);
 	    $('.top').css('background-image', 'url('+background_maps[map_number].image+')');
