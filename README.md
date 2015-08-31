@@ -1,5 +1,5 @@
 #### http://jamaps.github.io/
 
-My cartography portfolio
+My Portfolio
 
 &copy; Jeff Allen

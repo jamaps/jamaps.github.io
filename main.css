@@ -26,9 +26,17 @@ p {
 }
 
 h1 {
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
-	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	text-align: center;
+	color: #aaa
 }
 
 h3 {
@@ -43,7 +51,7 @@ a {
 
 .top {
 	width: 100%;
-	height: 66%;
+	height: 75%;
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -191,7 +199,7 @@ a {
 	width: 550px;
 }
 
-.main .box100 .img img{
+.main .box100 .img img {
 	height: 100px;
 	width: 100px;
 	float:left;
@@ -261,7 +269,6 @@ a {
 	-khtml-opacity: 1;        /* Safari 1.x */
 	opacity: 1;
 }
-
 
 .footer {
 	width: 100%;
