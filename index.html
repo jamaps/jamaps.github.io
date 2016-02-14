@@ -1,333 +1,85 @@
-<!DOCTYPE HTML>
-
 <html>
 
 <head>
 
-	<link rel="icon" type="image/png" href="map_icons/favicon.png" />
-	<title>Jeff Allen Maps</title>
+	<link rel="icon" type="image/png" href="icons/favicon.png" />
+	<title>Jeff Allen</title>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="main.css">
+  <meta name='author' content='Jeff Allen'/>
+  <meta name='description' content='Jeff Allen'/>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
-	<link href='http://fonts.googleapis.com/css?family=Roboto:500,400' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
-
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
+  <style>
+    * {
+      padding:0px;
+      margin:0px;
+    }
+    body {
+      background:url('map.png') no-repeat left top fixed;
+    }
+    #p1 {
+      font-family: "Lato", sans-serif;
+      font-weight: 400;
+      margin-bottom: 13px;
+      font-size: 14px;
+    }
+    #p2 {
+      font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-size: 12.5px;
+      margin-top: 10px;
+    }
+    #box {
+      height: 93px;
+      width: 159px;
+      background-color: white;
+      opacity: 0.98;
+      margin: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      border: 1px solid #5D5D5D;
+    }
+    img {
+      margin-right: 5px;
+      opacity:0.6;
+    }
+    img:hover {
+      opacity:0.95;
+    }
+    @media screen and (max-width: 650px) {
+        body {
+            /*background: #2D2F39;*/
+        }
+        #box {
+          margin: 0px;
+          background-color: white;
+          border: 0px;
+          border-radius: 0px;
+          border-bottom: 1px solid;
+          margin-top: 0px;
+          width: calc(100% - 40px);
+        }
+        p {
+          padding-left: 20px;
+        }
+    }
+  </style>
 
 </head>
 
 <body>
 
-	<div class="top">
-		<div class="button">
-			<a href="http://jamaps.github.io/"><img src="map_icons/refresh.png" style="width:30px;height:31px;"></a>
-		</div>
-	</div>
+  <div id="box">
+    <p id="p1"><b>Jeff Allen</b> / Cartographer</p>
+    <p>
+    <a href="maps.html" title="Map Gallery"><img src="icons/maps-01.png" style="width:32px;height:32px;"></a>
+    <a href="geospatial.html" title="Geospatial" target="_blank"><img src="icons/text-01.png" style="width:32px;height:32px;"></a>
+    <a href="https://github.com/jamaps" title="GitHub" target="_blank"><img src="icons/gits-01.png" style="width:32px;height:32px;"></a>
+    </p>
+    <p id="p2">jeff.allen AT mail.utoronto.ca</p>
+  </div>
 
+</body>
 
-	<div class="topline3"></div>
-	<div class="topline2"></div>
-	<div class="topline1"></div>
-	<div class="topline0"></div>
-
-
-	<div class="main">
-
-
-		<div class="box10"></div>
-		<div class="box10"></div>
-		<div class="box10"></div>
-
-
-		<div class="box100">
-				<div class="box10"></div>
-			<h1>Jeff Allen Maps</h1>
-			<p><br>jeff.allen AT mail.utoronto.ca</p>
-		</div>
-
-
-		<div class="box10"></div>
-		<div class="box10"></div>
-		<div class="box10"></div>
-
-		<div class="line"></div>
-
-		<div class="box40">
-			<div class="box10"></div>
-
-		<h2>Cartography and GIS Projects:</h2>
-		</div>
-
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/toronto_building_heights_map/"target="_blank"><img src="map_icons/tor_bh.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/toronto_building_heights_map/"target="_blank">Toronto Building Heights Map</a></h3>
-				<p><br>Web map of building heights in Toronto with custom map tiles created with gdal2tiles.py and displayed using Leaflet</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/syria_refugee_migration_routes_1170x1105.png"target="_blank"><img src="map_icons/syr.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/syria_refugee_migration_routes_1170x1105.png"target="_blank">Migration Routes of Syrian Refugees</a></h3>
-				<p><br>Schematic map showing the major migration routes of Syrian refugees into Europe during October, 2015. </p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/toronto_libraries_popdens/toronto_libraries_and_popdensity_2550x1650.png"target="_blank"><img src="map_icons/tor_dens.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/toronto_libraries_popdens/toronto_libraries_and_popdensity_2550x1650.png"target="_blank">Public Libraries & Population Density in Toronto</a></h3>
-				<p><br>Map comparing the location and size of public libraries to population density in Toronto.  </p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/na_high_speed_rail_1600x1600.png"target="_blank"><img src="map_icons/na_rail.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/na_high_speed_rail_1600x1600.png"target="_blank">North America High Speed Rail Fantasy Map</a></h3>
-				<p><br>Transit map depicting a futuristic high speed rail network that connects major urban areas across North America.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="https://github.com/jamaps/arcpy_scripts"target="_blank"><img src="map_icons/arcpy.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="https://github.com/jamaps/arcpy_scripts"target="_blank">ArcPy Scripts</a></h3>
-				<p><br>A few short python scripts for automating geoprocessing tasks in ArcGIS.	</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/uae_exdem_1249x865.png"target="_blank"><img src="map_icons/uaed.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/uae_exdem_1249x865.png"target="_blank">UAE Expatriate Demographics</a></h3>
-				<p><br>Orthographic map showing the origins of expatriates in the United Arab Emirates.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/ttc_ridership_2550x1650.png"target="_blank"><img src="map_icons/ttcride.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/ttc_ridership_2550x1650.png"target="_blank">Visualizing Transit Ridership</a></h3>
-				<p><br>Map of surface public transit routes in Toronto with line widths proportional to ridership counts.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/blueprint_maps"target="_blank"><img src="map_icons/bp.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/blueprint_maps"target="_blank">Blueprint Maps</a></h3>
-				<p><br>An alternate cartography for Google Maps based on architectural blueprints.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/nhl_relocation_map_1495x1155.png"target="_blank"><img src="map_icons/nhl_re.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/nhl_relocation_map_1495x1155.png"target="_blank">NHL Historical Team Relocation Map</a></h3>
-				<p><br>Map showing the historical geography of franchise relocation in the National Hockey League.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/mlb_relocation_map_1495x1155.png"target="_blank"><img src="map_icons/mlb_re.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/mlb_relocation_map_1495x1155.png"target="_blank">MLB Historical Team Relocation Map</a></h3>
-				<p><br>Map showing the historical geography of franchise relocation in Major League Baseball.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/red_light_cameras_toronto"target="_blank"><img src="map_icons/tor_red.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/red_light_cameras_toronto"target="_blank">Toronto's Red Light Cameras</a></h3>
-				<p><br>Simple web-map showing the location of all the red-light cameras in Toronto.  Built with Leaflet and data from Open Toronto.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/all_the_roads_of_GB_1650x2550.png"target="_blank"><img src="map_icons/gb_roads.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/all_the_roads_of_GB_1650x2550.png"target="_blank">All The Roads of Great Britain</a></h3>
-				<p><br>Visualization showing only the roadways of Great Britain.  Built with QGIS and open data from the Ordnance Survey.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/seven_years_in_tibet_map"target="_blank"><img src="map_icons/7_tib.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/seven_years_in_tibet_map"target="_blank">Mapping Harrer's Seven Years in Tibet</a></h3>
-				<p><br>Web-map detailing Henrich Harrer's journey through Tibet from 1945 to 1952.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box50"></div>
-		<div class="box100">
-			<div class="img">
-				<a href="http://jamaps.github.io/maps/usa_rail_1495x1155.png"target="_blank"><img src="map_icons/us_rail.png" style="width:100px;height:100px;"></a>
-			</div>
-			<div class="mid"></div>
-			<div class="text">
-				<h3><a href="http://jamaps.github.io/maps/usa_rail_1495x1155.png"target="_blank">Major Rail Lines of the USA</a></h3>
-				<p><br>Simple visualization highlighting the location of the major rail corridors in the United States.</p>
-			</div>
-		</div>
-		<div class="box50"></div>
-		<div class="line"></div>
-
-
-		<div class="box101">
-			<div class="button">
-				<a href="http://jamaps.github.io/"><img src="map_icons/arrow.png" style="width:36px;height:27px;"></a>
-			</div>
-		</div>
-
-
-		<div class="topline0"></div>
-		<div class="topline1"></div>
-		<div class="topline2"></div>
-		<div class="topline3"></div>
-
-
-		</div>
-
-
-		<div class="footer">
-			<div class="copybox">
-			<p><br>&copy; Jeff Allen</p>
-			</div>
-		</div>
-
-
-	</div>
-
-
-
-<script>
-
-	// to generate a random title map:
-
-	// array of maps
-		var background_maps = [
-  	{   image: 'maps_background/berlin2.png',
-		},
-  	{   image: 'maps_background/ne_scar.png',
-		},
-  	{   image: 'maps_background/near_huaraz.png',
-		},
-		{   image: 'maps_background/globefoot.png',
-		},
-		{   image: 'maps_background/neville.png',
-		},
-		{   image: 'maps_background/catdog.png',
-		},
-		{   image: 'maps_background/blue_bh.png',
-		},
-	  ];
-
-	// random number directing map in array to css
-	$(document).ready(function() {
-	    var map_number = Math.floor(Math.random() * (background_maps.length));
-	    $('.top').css('background-image', 'url('+background_maps[map_number].image+')');
-	    $('.footer').css('background-image', 'url('+background_maps[map_number].image+')');
-	} );
-
-</script>
+</html>
