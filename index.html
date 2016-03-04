@@ -18,29 +18,27 @@
       margin:0px;
     }
     body {
-      background:url('map.png') no-repeat left top fixed;
+      background: #2D2F39;
     }
-    #p1 {
+    p {
       font-family: "Lato", sans-serif;
       font-weight: 400;
       margin-bottom: 13px;
       font-size: 14px;
     }
-    #p2 {
-      font-family: "Lato", sans-serif;
-      font-weight: 400;
-      font-size: 12.5px;
-      margin-top: 10px;
-    }
+		#p2 {
+			padding-bottom: 3px;
+		}
     #box {
       height: 100px;
-      width: 220px;
-      background-color: white;
-      opacity: 0.99;
-      margin: 20px;
-      padding: 20px;
-      border-radius: 10px;
-      border: 1px solid #5D5D5D;
+			background-color: white;
+			border: 0px;
+			border-radius: 0px;
+			border-bottom: 1px solid;
+			margin-top: 0px;
+			width: calc(100% - 60px);
+			padding: 20px;
+			padding-left: 40px;
     }
     img {
       margin-right: 5px;
@@ -48,23 +46,6 @@
     }
     img:hover {
       opacity:0.98;
-    }
-    @media screen and (max-width: 2000px) {
-        body {
-            background:url('map.png') no-repeat center center fixed;
-        }
-        #box {
-          margin: 0px;
-          background-color: white;
-          border: 0px;
-          border-radius: 0px;
-          border-bottom: 1px solid;
-          margin-top: 0px;
-          width: calc(100% - 40px);
-        }
-        p {
-          padding-left: 20px;
-        }
     }
   </style>
 
@@ -74,12 +55,11 @@
 
   <div id="box">
     <p id="p1"><b>Jeff Allen</b></p>
-		<p id="p1">Cartography / Geospatial Analysis</p>
-		<p>
-    <a href="maps.html" title="Map Gallery"><img src="icons/maps-01.png" style="width:34px;height:34px;"></a>
+		<p id="p2">Cartography / Geospatial Analysis</p>
 
+    <a href="maps.html" title="Map Gallery"><img src="icons/maps-01.png" style="width:34px;height:34px;"></a>
     <a href="https://github.com/jamaps" title="GitHub" target="_blank"><img src="icons/gits-01.png" style="width:34px;height:34px;"></a>
-    </p>
+
 
   </div>
 
