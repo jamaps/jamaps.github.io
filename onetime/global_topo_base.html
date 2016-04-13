@@ -1,0 +1,121 @@
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Global Topographic Map</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' type='text/css' />
+<style>
+a {
+  text-decoration: underline;
+  color: black;
+}
+#geocoder-container {
+    position: absolute;
+    top: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#info {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 42px;
+    height: 42px;
+    background-color: white;
+    border: solid 2px;
+    border-color: lightgrey;
+    border-radius: 21px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-align: center;
+}
+#info p {
+  font-size: 29px;
+  font-family: 'Slabo 27px', serif;
+  margin-top: 4px;
+  color: black;
+}
+#info:hover {
+  opacity: 1;
+  background-color: #eaebec;
+}
+#show_info {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  width: 270px;
+  height: 42px;
+  background-color: white;
+  border: solid 2px;
+  border-color: lightgrey;
+  border-radius: 21px;
+  opacity: 0.8;
+}
+#show_info p {
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-left: 50px;
+}
+
+</style>
+
+<div id='map'></div>
+<div id='geocoder-container'></div>
+<div id="show_info" >
+  <p><b>A Topographic Map Of The World</b></p>
+  <p>Designed by <a href="http://jamaps.github.io/" target="_blank">Jeff Allen</a> using <a href="https://www.mapbox.com/" target="_blank">Mapbox</a></p>
+</div>
+
+
+<div id='info' onclick="ShowDiv()"><p>i</p></div>
+
+<script>
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiamVmZmFsbGVuIiwiYSI6InJOdUR0a1kifQ.fTlTX02Ln0lwgaY4vkubSQ';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/jeffallen/cimic77ij0063qxno884ynu0h',
+    center: [0, 20],
+    zoom: 1.5,
+    attributionControl: false
+});
+
+var geocoder = new mapboxgl.Geocoder({
+    container: 'geocoder-container'
+});
+
+map.addControl(geocoder);
+map.addControl(new mapboxgl.Navigation());
+
+var x = 1;
+function ShowDiv() {
+    if (x == 0) {
+      document.getElementById("show_info").style.display = "";
+      x = 1;
+    } else {
+      document.getElementById("show_info").style.display = "none";
+      x = 0;
+    }
+}
+
+</script>
+
+</body>
+</html>
