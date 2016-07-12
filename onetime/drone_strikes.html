@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Drone Strikes in Afghanistan</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+
+</head>
+
+
+<body>
+
+<style>
+* {
+    margin:0;
+    padding:0;
+  }
+
+html,body { height: 100%; margin: 0px; padding: 0px; }
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+
+div.cartodb-timeslider .ui-slider .ui-slider-range{background-color:#ffccaf;}
+
+
+
+</style>
+
+
+
+
+<div id="map"></div>
+
+
+
+<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+
+
+<script>
+
+
+function main() {
+        var map_url = 'https://jamaps.carto.com/api/v2/viz/9261c238-4629-11e6-a510-0e3ff518bd15/viz.json';
+
+        cartodb.createVis('map', map_url, {
+           zoomControl: true,
+        })
+        .done(function(vis, layers) {
+          vis.map.set({
+            minZoom: 5,
+            maxZoom: 7
+          });
+
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      }
+
+      window.onload = main;
+
+
+</script>
+</body>
+
+</html>
