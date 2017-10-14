@@ -10,7 +10,7 @@
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name='author' content='Jeff Allen'/>
-  <meta name='description' content='maps, cartography, gis, transport, transportation, map'/>
+  <meta name='description' content='maps, cartography, gis, transport, transportation, map, geography'/>
 
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
@@ -23,16 +23,20 @@
 
     #line {
       width: 100%;
+			max-width: 650px;
       height: 1px;
-      background-color: white;
+      background-color: black;
       opacity: 0.1;
+			margin-bottom: 10px;
     }
     #top {
-      height: 50px;
-      width: 100%;
+      /*height: 200px;*/
+      max-width: 650px;
       background-color: #FFFFFF;
       padding-top: 30px;
-      text-align: center;
+			padding-left: 50px;
+			padding-right: 30px;
+      text-align: left;
     }
     div {
       margin: 0 auto;
@@ -48,7 +52,7 @@
       font-size: 14px;
     }
     a {
-    	color: black;
+    	color: blue;
     	text-decoration: none;
       text-decoration: underline;
     }
@@ -106,35 +110,45 @@
 
 <body>
 
+
+
+
+
   <div id="top">
 
-    <h1>maps by <a href="index.html">Jeff Allen</a> &copy;</h1>
+    <h1><a href="index.html">Jeff Allen</a></h1>
+		<br>
+		<p>I am currently a researcher / graduate student at the University of Toronto working in the areas of urban geography, transportation, and spatial analysis / GIS.
+			<!-- Some projects I've worked can be found <a href="https://github.com/jamaps" target="_blank">here</a> -->
+		</p>
+		<br>
+		<p>
+		I also dabble in cartography and data visualization. Below are links to maps and other visual things I've made of varying scale, scope, and quality.
+		</p>
+		<br>
+		<p>More technical projects and software I've worked on are on my <a href="https://github.com/jamaps"  target="_blank">GitHub</a> page.</p>
+		<br>
+		<p>Contact: jeff.allen AT mail.utoronto.ca</p>
+		<br>
 
   </div>
+
 
   <div id="line"></div>
 
   <div class="grid">
 
 		<div class="grid-item">
+			<a href="https://jamaps.github.io/maps/cgy_three_modes_2700x1500.png"target="_blank"><img src="mapimgs/cgymodes.png" style="width:300px;height:300px;"></a><p> &nbsp; calgary | three modes to city hall</p>
+		</div>
+
+		<div class="grid-item">
 			<a href="https://jamaps.github.io/maps/isomap_1920x2880.png"target="_blank"><img src="mapimgs/isomap.png" style="width:300px;height:300px;"></a><p> &nbsp; icosahedral world map</p>
 		</div>
 
 		<div class="grid-item">
-			<a href="https://jamaps.github.io/maps/cgy_three_modes_2700x1500.png"target="_blank"><img src="mapimgs/cgymodes.png" style="width:300px;height:300px;"></a><p> &nbsp; calgary | three modes to city hall</p>
-		</div>
-
-
-		<div class="grid-item">
 			<a href="http://jamaps.github.io/maps/parking2016_2550x1650.png"target="_blank"><img src="mapimgs/parking16.png" style="width:300px;height:300px;"></a><p> &nbsp; parking ticket density in Toronto, 2016</p>
 		</div>
-
-
-
-
-
-
-
 
 
 		<div class="grid-item">
@@ -146,11 +160,10 @@
 			<a href="http://jamaps.github.io/maps/tree_montreal_1200x900.png"target="_blank"><img src="mapimgs/tree_mtl.png" style="width:300px;height:300px;"></a><p> &nbsp; montreal fractal commuting tree</p>
 		</div>
 
+
 		<div class="grid-item">
-			<a href="https://raw.githubusercontent.com/jamaps/maps/gh-pages/scar_word_map_1056x1313.png"target="_blank"><img src="mapimgs/scarword.png" style="width:300px;height:300px;"></a><p> &nbsp; southeast Scarborough, ON typographic map</p>
+			<a href="http://jamaps.github.io/maps/bike_vs_transit_1700x1100.png"target="_blank"><img src="mapimgs/isodifbt.png" style="width:300px;height:300px;"></a><p> &nbsp; travel times - bike vs. transit</p>
 		</div>
-
-
 
 
 
@@ -160,9 +173,7 @@
 		<div class="grid-item">
 			<a href="onetime/global_topo_base.html"target="_blank"><img src="mapimgs/globo_topo.png" style="width:300px;height:300px;"></a><p> &nbsp; a global topographic base map</p>
 		</div>
-		<div class="grid-item">
-			<a href="http://jamaps.github.io/maps/bike_vs_transit_1700x1100.png"target="_blank"><img src="mapimgs/isodifbt.png" style="width:300px;height:300px;"></a><p> &nbsp; travel times - bike vs. transit</p>
-		</div>
+
 
 
 
@@ -177,6 +188,11 @@
 		</div>
 		<div class="grid-item">
 			<a href="https://sausy-lab.github.io/SMTO_web_map/"target="_blank"><img src="mapimgs/smto.png" style="width:300px;height:300px;"></a><p> &nbsp; home-campus trips in Toronto</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="https://raw.githubusercontent.com/jamaps/maps/gh-pages/scar_word_map_1056x1313.png"target="_blank"><img src="mapimgs/scarword.png" style="width:300px;height:300px;"></a><p> &nbsp; southeast Scarborough, ON typographic map</p>
 		</div>
 
 
