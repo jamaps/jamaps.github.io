@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/ja/Dropbox/work/site/jamaps.github.io/mapimgs/dayvsnight.png"
+   inkscape:export-filename="/home/ja/Dropbox/work/site/jamaps.github.io/mapimgs/ator24.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="sg.svg">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="383.64629"
-     inkscape:cy="188.41501"
+     inkscape:zoom="1"
+     inkscape:cx="63.595772"
+     inkscape:cy="68.590005"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +62,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     sodipodi:insensitive="true">
     <rect
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.00322533;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4159"
