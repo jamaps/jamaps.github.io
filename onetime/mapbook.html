@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset='utf-8' />
-    <title>Global Topographic Map</title>
+    <title>map.book</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.css' rel='stylesheet' />
@@ -13,26 +13,27 @@
 </head>
 <body>
 
-<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
-<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' type='text/css' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.css' rel='stylesheet' />
 <style>
+
 a {
   text-decoration: underline;
   color: black;
 }
 #geocoder-container {
     position: absolute;
-    top: 0;
+    top: 12;
     margin-top: 10px;
     margin-left: 10px;
 }
 #info {
     position: absolute;
-    bottom: 0;
+    top: 12;
     margin-bottom: 10px;
     margin-left: 10px;
-    width: 42px;
-    height: 42px;
+    width: 25px;
+    height:25px;
     background-color: white;
     border: solid 2px;
     border-color: lightgrey;
@@ -42,10 +43,10 @@ a {
     text-align: center;
 }
 #info p {
-  font-size: 29px;
-  font-family: 'Slabo 27px', serif;
-  margin-top: 4px;
-  color: black;
+  font-size: 19px;
+  font-family: sans-serif;
+  margin-top: 0px;
+  color: grey;
 }
 #info:hover {
   opacity: 1;
@@ -53,16 +54,16 @@ a {
 }
 #show_info {
   position: absolute;
-  bottom: 0;
+  top: 12;
   margin-bottom: 10px;
   margin-left: 10px;
-  width: 290px;
-  height: 42px;
+  width: 270px;
+  height: 78px;
   background-color: white;
   border: solid 2px;
   border-color: lightgrey;
   border-radius: 21px;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 #show_info p {
   font-size: 12px;
@@ -71,7 +72,7 @@ a {
   padding: 0px;
   margin: 0px;
   padding-top: 5px;
-  padding-left: 50px;
+  padding-left: 33px;
 }
 
 </style>
@@ -79,38 +80,38 @@ a {
 <div id='map'></div>
 <div id='geocoder-container'></div>
 <div id="show_info" >
-  <p><b>Topographic World Map</b></p>
-  <p>by <a href="http://jamaps.github.io/" target="_blank">Jeff Allen</a> using <a href="https://www.mapbox.com/" target="_blank">Mapbox</a> and <a href="https://www.openstreetmap.com/" target="_blank">OSM</a></p>
+  <p><b>map.book</b></p>
+  <p>a global reference map inspired by<br>20th century road/travel atlases</p>
+
+  <p><i>by <a href="http://jamaps.github.io/" target="_blank">Jeff Allen</a> using <a href="https://www.mapbox.com/" target="_blank">Mapbox</a> and <a href="https://www.openstreetmap.com/" target="_blank">OSM</a></i></p>
 </div>
 
 
-<div id='info' onclick="ShowDiv()"><p>i</p></div>
+<div id='info' onclick="ShowDiv()"><p><b>x</b></p></div>
 
 <script>
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiamVmZmFsbGVuIiwiYSI6InJOdUR0a1kifQ.fTlTX02Ln0lwgaY4vkubSQ';
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/jeffallen/cimic77ij0063qxno884ynu0h',
-    center: [15, 42],
-    zoom: 4,
+    style: 'mapbox://styles/jeffallen/cjb45vs9ws7342rmt35cirnob',
+    center: [-77, 40],
+    zoom: 7,
     attributionControl: false
 });
 
-var geocoder = new mapboxgl.Geocoder({
-    container: 'geocoder-container'
-});
-
-map.addControl(geocoder);
-map.addControl(new mapboxgl.Navigation());
+var nav = new mapboxgl.NavigationControl();
+map.addControl(nav, 'top-right');
 
 var x = 1;
 function ShowDiv() {
     if (x == 0) {
       document.getElementById("show_info").style.display = "";
+      document.getElementById("info").innerHTML = "<p><b>x</b></p>";
       x = 1;
     } else {
       document.getElementById("show_info").style.display = "none";
+      document.getElementById("info").innerHTML = "<p><b>?</b></p>";
       x = 0;
     }
 }
