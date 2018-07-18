@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <html>
@@ -5,14 +6,119 @@
 <head>
 
 	<link rel="icon" type="image/png" href="icons/favicon.png" />
-	<title>Jeff Allen</title>
-	<meta http-equiv="refresh" content="0;url=index.html"> </meta>
-
-
+	<title>Jeff Allen Maps</title>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name='author' content='Jeff Allen'/>
-  <meta name='description' content='maps, cartography, gis, transport, transportation, spatial, map'/>
+  <meta name='description' content='maps, cartography, gis, transport, transportation, map, geography'/>
+
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
+  <style>
+
+    * {
+      padding:0px;
+      margin:0px;
+    }
+
+    #line {
+      width: 100%;
+			max-width: 600px;
+      height: 1px;
+      background-color: black;
+      opacity: 0.1;
+			margin-bottom: 10px;
+    }
+    #top {
+      /*height: 200px;*/
+      max-width: 600px;
+      background-color: #FFFFFF;
+      padding-top: 30px;
+			padding-left: 40px;
+			padding-right: 30px;
+      text-align: left;
+    }
+    div {
+      margin: 0 auto;
+    }
+    h1 {
+      font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-size: 19px;
+    }
+    p {
+      font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+    }
+		#top p {
+			font-family: "Lato", sans-serif;
+			font-weight: 400;
+			font-size: 14px;
+		}
+
+    h2 {
+			font-family: "Lato", sans-serif;
+			font-weight: 400;
+			font-size: 15px;
+		}
+		a {
+    	color: blue;
+    	text-decoration: none;
+    }
+    h2 a {
+    	color: rgb(36, 69, 255);
+    	text-decoration: none;
+    }
+    .grid {
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .grid-item {
+      width: 300px;
+      height: 330px;
+      float: left;
+      opacity: 0.85;
+    }
+    .grid-item:hover {
+      opacity: 0.99;
+    }
+
+
+    @media screen and (max-width: 900px) {
+      .grid {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: red;
+        position: relative;
+        }
+        .grid-item {
+          width: 300px;
+          height: 330px;
+          float: left;
+          opacity: 0.9;
+        }
+    }
+    @media screen and (max-width: 600px) {
+      .grid {
+        max-width: 300px;
+        margin: 0 auto;
+        background-color: red;
+        position: relative;
+        }
+        .grid-item {
+          width: 300px;
+          height: 330px;
+          float: left;
+          opacity: 0.95;
+        }
+    }
+
+
+
+
+  </style>
 
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118761007-1"></script>
 	<script>
@@ -22,5 +128,280 @@
 		gtag('config', 'UA-118761007-1');
 	</script>
 
+
 </head>
+
+<body>
+
+
+
+
+
+  <div id="top">
+
+      <br>
+      <h1><b>Jeff Allen</b></h1>
+      <br>
+      <h2><a href="index.html">About</a>  &nbsp;&nbsp;&nbsp; <a href="maps.html"><b>Maps</b></a> &nbsp;&nbsp;&nbsp; <a href="https://scholar.google.ca/citations?user=XFmML7cAAAAJ&hl=en&oi=ao"target="_blank">Research</a>     &nbsp;&nbsp;&nbsp; <a href="https://github.com/jamaps"target="_blank">Code</a></h2>
+      <br>
+      <div id="line"></div>
+      <p>
+      I like to make maps. Here are a few of varying scale and scope.
+      <br><br>
+      <br><br>
+
+      </p>
+
+		<div id="line"></div>
+
+
+  </div>
+
+
+
+  <div class="grid">
+
+		<div class="grid-item">
+			<a href="https://sausy-lab.github.io/utsc-transit-study/commuting-patterns/map.html"target="_blank"><img src="mapimgs/utsccom.png" style="width:300px;height:300px;"></a><p> &nbsp; UTSC commuting patterns</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="https://sausy-lab.github.io/canada-transit-access/map.html"target="_blank"><img src="mapimgs/canacc.png" style="width:300px;height:300px;"></a><p> &nbsp; access to employment in Canadian cities</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/city-guesser"target="_blank"><img src="mapimgs/cguess.png" style="width:300px;height:300px;"></a><p> &nbsp; city guesser game</p>
+    </div>
+
+
+		<div class="grid-item">
+			<a href="https://sausy-lab.github.io/figure-ground-pop-density-map/index.html"target="_blank"><img src="mapimgs/pdfg.png" style="width:300px;height:300px;"></a><p> &nbsp; population density + figure ground</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/tree_montreal_1200x900.png"target="_blank"><img src="mapimgs/tree_mtl.png" style="width:300px;height:300px;"></a><p> &nbsp; montreal fractal commuting tree</p>
+		</div>
+
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/maps/mlb_relocation_map_1495x1155.png"target="_blank"><img src="mapimgs/mlbre.png" style="width:300px;height:300px;"></a><p> &nbsp; MLB team relocation</p>
+    </div>
+
+		<div class="grid-item">
+			<a href="onetime/mapbook.html"target="_blank"><img src="mapimgs/gsm.png" style="width:300px;height:300px;"></a><p> &nbsp; global map book </p>
+		</div>
+
+    <div class="grid-item">
+			<a href="https://jamaps.github.io/maps/cgy_three_modes_2700x1500.png"target="_blank"><img src="mapimgs/cgymodes.png" style="width:300px;height:300px;"></a><p> &nbsp; calgary | three modes to city hall</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/maps/isomap_1920x2880.png"target="_blank"><img src="mapimgs/isomap.png" style="width:300px;height:300px;"></a><p> &nbsp; icosahedral world map</p>
+		</div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/volcano_map"target="_blank"><img src="mapimgs/volc.png" style="width:300px;height:300px;"></a><p> &nbsp; volcanoes & tectonic plates</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/parking2016_2550x1650.png"target="_blank"><img src="mapimgs/parking16.png" style="width:300px;height:300px;"></a><p> &nbsp; parking ticket density in Toronto, 2016</p>
+		</div>
+
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/milano_1920x1080.png"target="_blank"><img src="mapimgs/milan.png" style="width:300px;height:300px;"></a><p> &nbsp; milan wallpaper</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/bike_vs_transit_1700x1100.png"target="_blank"><img src="mapimgs/isodifbt.png" style="width:300px;height:300px;"></a><p> &nbsp; travel times - bike vs. transit</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="https://sausy-lab.github.io/SMTO_web_map/"target="_blank"><img src="mapimgs/smto.png" style="width:300px;height:300px;"></a><p> &nbsp; home-campus trips in Toronto</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/phuket_840x1470.png"target="_blank"><img src="mapimgs/phu.png" style="width:300px;height:300px;"></a><p> &nbsp; Phuket, Thailand</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/maps/urban_swatches_2000x1000.png"target="_blank"><img src="mapimgs/urbsw.png" style="width:300px;height:300px;"></a><p> &nbsp; urban swatches V wallpaper</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/maps/hex_wall_1920x1080.png"target="_blank"><img src="mapimgs/hexw2.png" style="width:300px;height:300px;"></a><p> &nbsp; hex-num-viz wallpaper</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="https://jamaps.github.io/maps/tor_access_trips_2550x1650.png"target="_blank"><img src="mapimgs/ator24.png" style="width:300px;height:300px;"></a><p> &nbsp; access to transit service | Toronto</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/maps/tor_access_a45_2550x1650.png"target="_blank"><img src="mapimgs/ator45.png" style="width:300px;height:300px;"></a><p> &nbsp; transit access to jobs | Toronto</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/distance_to_transit_975x1125.png"target="_blank"><img src="mapimgs/tschm.png" style="width:300px;height:300px;"></a><p> &nbsp; simple distance to transit schematic</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/toronto_intersections_map"target="_blank"><img src="mapimgs/inters.png" style="width:300px;height:300px;"></a><p> &nbsp; toronto traffic lights</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/huaraz_terrain_2000x1483.png"target="_blank"><img src="mapimgs/huaraz.png" style="width:300px;height:300px;"></a><p> &nbsp; huaraz terrain wallpaper</p>
+		</div>
+
+
+
+		<div class="grid-item">
+			<a href="https://raw.githubusercontent.com/jamaps/maps/gh-pages/scar_word_map_1056x1313.png"target="_blank"><img src="mapimgs/scarword.png" style="width:300px;height:300px;"></a><p> &nbsp; southeast Scarborough, ON typographic map</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/purple_city_wall_1911x962.png"target="_blank"><img src="mapimgs/p.png" style="width:300px;height:300px;"></a><p> &nbsp; purple city wallpaper</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="onetime/drone_strikes.html"target="_blank"><img src="mapimgs/drone.png" style="width:300px;height:300px;"></a><p> &nbsp; drone strikes in Afghanistan</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://imgur.com/a/3Tmah"target="_blank"><img src="mapimgs/toracc.png" style="width:300px;height:300px;"></a><p> &nbsp; access to jobs in Toronto</p>
+		</div>
+
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/maps/uae_exdem_1249x865.png"target="_blank"><img src="mapimgs/uaex.png" style="width:300px;height:300px;"></a><p> &nbsp; UAE expatriate demographics</p>
+    </div>
+
+
+
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/all_the_roads_of_GB_1650x2550.png"target="_blank"><img src="mapimgs/gbroads.png" style="width:300px;height:300px;"></a><p> &nbsp; just the roads of Great Britain</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/dynamic_transit_isochrone_798x798.gif"target="_blank"><img src="mapimgs/wpgiso.png" style="width:300px;height:300px;"></a><p> &nbsp; winnipeg dynamic transit isochrone</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="https://jamaps.github.io/unesco_sites_map/"target="_blank"><img src="mapimgs/unes.png" style="width:300px;height:300px;"></a><p> &nbsp; unesco heritage sites</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/go_iso_1515x1515.png"target="_blank"><img src="mapimgs/goiso.png" style="width:300px;height:300px;"></a><p> &nbsp; isochronic commuter rail map</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/dubai_re_1050x750.png"target="_blank"><img src="mapimgs/dubaibw.png" style="width:300px;height:300px;"></a><p> &nbsp; Dubai b/w 2015</p>
+		</div>
+
+
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/maps/cinema_screens_1584x936.png"target="_blank"><img src="mapimgs/cinema.png" style="width:300px;height:300px;"></a><p> &nbsp; cinema screens per capita</p>
+    </div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/olympic_cities_map/"target="_blank"><img src="mapimgs/olym.png" style="width:300px;height:300px;"></a><p> &nbsp; olympic cities</p>
+    </div>
+
+    <div class="grid-item">
+      <a href="http://jamaps.github.io/maps/syria_refugee_migration_routes_1170x1105.png"target="_blank"><img src="mapimgs/symig.png" style="width:300px;height:300px;"></a><p> &nbsp; migration routes of Syrian refugees</p>
+    </div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/blueprint_maps/"target="_blank"><img src="mapimgs/bp.png" style="width:300px;height:300px;"></a><p> &nbsp; blueprint cartography for google maps</p>
+    </div>
+
+    <div class="grid-item">
+      <a href="http://jamaps.github.io/maps/ttc_ridership_2550x1650.png"target="_blank"><img src="mapimgs/ttcride.png" style="width:300px;height:300px;"></a><p> &nbsp; visualizing Toronto's transit ridership</p>
+    </div>
+    <div class="grid-item">
+      <a href="http://jamaps.github.io/toronto_libraries_popdens/toronto_libraries_and_popdensity_2550x1650.png"target="_blank"><img src="mapimgs/libs.png" style="width:300px;height:300px;"></a><p> &nbsp; libraries vs population density in Toronto</p>
+    </div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/map_of_rinks_people_and_income/"target="_blank"><img src="mapimgs/rinks.png" style="width:300px;height:300px;"></a><p> &nbsp; rinks, population density, and income</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/tree_toronto_1200x900.png"target="_blank"><img src="mapimgs/tree_tor.png" style="width:300px;height:300px;"></a><p> &nbsp; toronto fractal tree</p>
+		</div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/maps/nhl_relocation_map_1495x1155.png"target="_blank"><img src="mapimgs/nhlre.png" style="width:300px;height:300px;"></a><p> &nbsp; NHL team relocation</p>
+    </div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/tree_calgary_1200x900.png"target="_blank"><img src="mapimgs/tree_cgy.png" style="width:300px;height:300px;"></a><p> &nbsp; calgary fractal tree</p>
+		</div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/montreal_transit_stop_frequency"target="_blank"><img src="mapimgs/mtl_tf.png" style="width:300px;height:300px;"></a><p> &nbsp; transit stop frequency in Montreal</p>
+    </div>
+
+    <div class="grid-item">
+      <a href="http://jamaps.github.io/maps/na_high_speed_rail_1600x1600.png"target="_blank"><img src="mapimgs/narail.png" style="width:300px;height:300px;"></a><p> &nbsp; NA high speed rail concept</p>
+    </div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/ventnor_4200x2700.png"target="_blank"><img src="mapimgs/vent.png" style="width:300px;height:300px;"></a><p> &nbsp; Ventnor</p>
+		</div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/maps/human_footprint_2220x921.png"target="_blank"><img src="mapimgs/foot.png" style="width:300px;height:300px;"></a><p> &nbsp; global human footprint</p>
+    </div>
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/smto_hex_2040x1320.png"target="_blank"><img src="mapimgs/smtohex.png" style="width:300px;height:300px;"></a><p> &nbsp; hex bins of university students</p>
+		</div>
+
+		<div class="grid-item">
+			<a href="onetime/global_topo_base.html"target="_blank"><img src="mapimgs/globo_topo.png" style="width:300px;height:300px;"></a><p> &nbsp; global topographic base-map </p>
+		</div>
+
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/toronto_building_heights_map/"target="_blank"><img src="mapimgs/torb15.png" style="width:300px;height:300px;"></a><p> &nbsp; Toronto building heights - 2015</p>
+    </div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/red_light_cameras_toronto/"target="_blank"><img src="mapimgs/rlc.png" style="width:300px;height:300px;"></a><p> &nbsp; Toronto's red light cameras</p>
+    </div>
+
+		<div class="grid-item">
+      <a href="http://jamaps.github.io/seven_years_in_tibet_map/"target="_blank"><img src="mapimgs/har.png" style="width:300px;height:300px;"></a><p> &nbsp; mapping Harrer's seven years in Tibet</p>
+    </div>
+
+    <div class="grid-item">
+			<a href="http://jamaps.github.io/maps/berlin_1800x1191.png"target="_blank"><img src="mapimgs/berlin.png" style="width:300px;height:300px;"></a><p> &nbsp; Berlin wallpaper</p>
+		</div>
+
+
+		<div class="grid-item">
+			<a href="http://jamaps.github.io/maps/cosmic_st_loop_1800x1055.png"target="_blank"><img src="mapimgs/st.png" style="width:300px;height:300px;"></a><p> &nbsp; streetcar loop wallpaper</p>
+		</div>
+
+
+    <div class="grid-item">
+      <a href="http://jamaps.github.io/maps/usa_rail_1495x1155.png"target="_blank"><img src="mapimgs/usrail.png" style="width:300px;height:300px;"></a><p> &nbsp; major rail lines in the USA</p>
+    </div>
+
+
+
+</body>
+
+
 </html>
