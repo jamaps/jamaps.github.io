@@ -139,16 +139,53 @@
     }
 
 
-		#block {
+		.block {
 			padding: 0px;
 			border-top-style: dashed;
 			border-top-width: 1px;
 			border-top-color: lightgrey;
 			padding-top: 10px;
 			padding-bottom: 10px;
-
-
+			/* cursor: pointer; */
 		}
+
+		.block p {
+			display: inline;
+		}
+
+		#abbut {
+			cursor: pointer;
+		}
+
+		/* .block:hover {
+			background-color: #e5f9f2;
+		} */
+
+
+		.abstract {
+			padding-bottom: 5px;
+			display: none;
+		}
+
+		.abstract p {
+			color: #3d6050;
+		}
+
+		.arrows {
+			cursor: pointer;
+			text-align: center;
+		}
+		.arrows:hover {
+			background-color: #e5f9f2;
+		}
+
+
+		#i_actacc {
+			display: none;
+		}
+
+
+
 
 
 
@@ -182,7 +219,10 @@
 		<br>
 		<div id="line"></div>
 		<p>
-		Here are links to research papers and reports that I've helped out on or written myself over the past few years or so. Some of these have also been presented at academic conferences (feel free to email me at jeff.allen@utoronto.ca for slides, data, or any other info regarding these works).
+		Research is the practice of designing, finding, and communicating information. QQQQ
+		</p>
+		<p>
+		Here are links to research papers and reports that I've helped out on or written myself over the past few years or so. Feel free to email me at jeff.allen@utoronto.ca for any questions or comments regarding these works.
 		</p>
 		<br>
 		<br>
@@ -191,54 +231,221 @@
 
 	<div id="main">
 
-	<div id="block"><p style="color:red">2020</p></div>
+	<div class="block" id="year"><p style="color:red">2020</p></div>
 
-	<div id="block"><p><b>Planning transport for social inclusion: An accessibility-activity participation approach</b> - Allen, J. & Farber, S. - <i>Transportation Research Part D: Transport and Environment</i> -  <a href = http://jamaps.github.io/docs/Allen_farber_2020_access_activity_paper.pdf target="_blank">Link</a></div>
+	<div class="block" >
+		<p><b>Planning transport for social inclusion: An accessibility-activity participation approach</b> - Allen, J. & Farber, S. - <i>Transportation Research Part D: Transport and Environment</i></p><br>
+		<p id="abbut" onclick="myFunction('actacc')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href=http://doi.org/10.1016/j.trd.2019.102212 target = "_blank">URL</a> &nbsp;|&nbsp;
+		<a href = http://jamaps.github.io/docs/Allen_farber_2020_access_activity_paper.pdf target="_blank">PDF</a>
+		</p>
+	</div>
+		<div class="abstract" id="a_actacc">
+		<p>
+			<b>Abstract</b> - Social equity is increasingly becoming an important objective in transport planning and project evaluation. This paper provides a framework and an empirical investigation in the Greater Toronto and Hamilton Area (GTHA) examining the links between public transit accessibility and the risks of social exclusion, simply understood as the suppressed ability to conduct daily activities at normal levels. Specifically, we use a large-sample travel survey to present a new transport-geography concept termed participation deserts, neighbourhood-level clusters of lower than expected activity participation. We then use multivariate models to estimate where, and for whom, improvements in transit accessibility will effectively increase activity participation and reduce risks of transport-related social exclusion. Our results show that neighbourhoods with high concentrations of low-income and zero-car households located outside of major transit corridor sare the most sensitive to having improvements in accessibility increase daily activity participation rates. We contend that transit investments providing better connections to these neighbourhoods would have the greatest benefit in terms of alleviating existing inequalities and reducing the risks of social exclusion. The ability for transport investments to liberate suppressed activity participation is not currently being predicted or valued in existing transport evaluation methodologies, but there is great potential in doing so in order to capture the social equity benefits associated with increasing transit accessibility.
+		</p>
 
-	<div id="block"><p><b>Importance of Automobile Mode Share in Understanding the Full Impact of Urban Form on Work-Based Vehicle Distance Traveled</b> - Xi, Y., Allen, J., Miller, E. J., Farber, S., & Keel, R. - <i>Transportation Research Record</i> - <a href = https://doi.org/10.1177%2F0361198120911053 target="_blank">Link</a></div>
+		<div class="arrows" onclick="myFunction('actacc')">
+			<p> ^ </p>
+		</div>
+	</div>
 
-	<div id="block"><p><b>Measuring when Uber behaves as a substitute or supplement to transit: An examination of travel-time differences in Toronto</b> - Young, M., Allen, J. & Farber, S.- <i>Journal of Transport Geography</i> - <a href = https://doi.org/10.1016/j.jtrangeo.2019.102629 target="_blank">Link</a></div>
 
 
-	<div id="block"><p style="color:red">2019</p></div>
 
-	<div id="block"><p><b>Measuring the Local Economic Impacts of Replacing On-Street Parking With Bike Lanes</b> - Arancibia, D., Farber, S., Savan, B., Verlinden, Y., Smith Lea, N., Allen, J. & Vernich, L. - <i>Journal of the American Planning Association</i> - <a href = https://doi.org/10.1080/01944363.2019.1638816 target="_blank">Link</a></div>
 
-	<div id="block"><p><b>Benchmarking Transport Equity in the Greater Toronto and Hamilton Area (GTHA)</b> - Allen, J. & Farber, S. - <i>Transport Findings</i> -  <a href = http://jamaps.github.io/docs/allen_farber_2019_benchmarking.pdf target="_blank">Link</a></div>
+	<div class="block" >
+		<p><b>Importance of Automobile Mode Share in Understanding the Full Impact of Urban Form on Work-Based Vehicle Distance Traveled</b> - Xi, Y., Allen, J., Miller, E. J., Farber, S., & Keel, R. - <i>Transportation Research Record</i></p><br>
+		<p id="abbut" onclick="myFunction('vkttor')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href=https://doi.org/10.1177%2F0361198120911053 target = "_blank">URL</a>
+		 <!-- &nbsp;|&nbsp;
+		<a href = https://doi.org/10.1177%2F0361198120911053 target="_blank">PDF</a> -->
+		</p>
+	</div>
+		<div class="abstract" id="a_vkttor">
+		<p>
+			<b>Abstract</b> - Vehicle kilometers traveled (VKT) has been widely used in regional planning as a key sustainability performance indicator. Many regional growth plans for reducing work trip VKT have been proposed, with a focus on land use development in employment centers. Despite the potential impact of urban form on the reduction of VKT, the fundamentals of how this takes place remain unclear. This study analyzes the relationship between urban form, VKT, and mode shares by examining office commuting patterns in the Greater Toronto and Hamilton Area (GTHA) through a structural equation modeling approach. The model supports the substantial impact of urban form on the reduction of VKT; however, it indicates that such an impact is made mostly through shifting modes, rather than directly on reduced travel distances. This model is then used to evaluate critically a regional growth plan for the GTHA, finding that strategies focusing solely on increasing land use densities in employment centers are not likely to reduce regional VKT significantly without also easing commuting auto dependency. Thus, it is recommended that more sustainable travel alternatives for workers in employment centers should be provided to achieve a sufficient reduction in VKT.
+		</p>
 
-	<div id="block"><p><b>A measure of competitive access to destinations for comparing across multiple study regions</b> - Allen, J. & Farber, S. - <i>Geographical Analysis</i> -  <a href = docs/allen_farber_2019_competitive_accessibility.pdf target="_blank">Link</a></div>
+		<div class="arrows" onclick="myFunction('vkttor')">
+			<p> ^ </p>
+		</div>
+	</div>
 
-	<div id="block"><p> <b>Book Review: "The Geography of Urban Transportation"</b> - Allen, J. - <i>The Canadian Geographer/Le Géographe canadien</i> - <a href = "docs/allen_2019_book_review_trgeo.pdf", target="_blank">Link</a></p></div>
 
-	<div id="block"><p><b>Sizing up transport poverty: a national scale accounting of low-income households suffering from inaccessibility in Canada</b> - Allen, J. & Farber, S. - <i>Transport Policy</i> - <a href = "docs/allen_farber_2019_transport_poverty.pdf", target="_blank">Link</a></div>
 
-	<div id="block"><p><b>Mapping differences in access to public libraries by travel mode and time of day</b> - Allen, J. - <i>Library & Information Science Research</i> - <a href = "https://www.sciencedirect.com/science/article/pii/S0740818818301968", target="_blank">Link</a></p></div>
 
-	<div id="block"><p style="color:red">2018</p></div>
 
-	<div id="block"><p><b>Using network segments in the visualization of urban isochrones</b> - Allen, J. - <i>Cartographica</i> - <a href = "docs/allen_2018_isochrones.pdf", target="_blank">Link</a></p></div>
+	<div class="block" >
+		<p><b>Measuring when Uber behaves as a substitute or supplement to transit: An examination of travel-time differences in Toronto</b> - Young, M., Allen, J. & Farber, S.- <i>Journal of Transport Geography</i></p><br>
+		<p id="abbut" onclick="myFunction('rhtor')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href=https://doi.org/10.1016/j.jtrangeo.2019.102629 target = "_blank">URL</a>
+		&nbsp;|&nbsp;
+		<a href = https://d1wqtxts1xzle7.cloudfront.net/61598314/Manuscript_JTG_01_9.11.30_AM20191224-109914-1n0z86k.pdf?1577196851=&response-content-disposition=inline%3B+filename%3DMeasuring_when_Uber_behaves_as_a_substit.pdf&Expires=1591485209&Signature=JHCXl5VRw6iFksVItB~05Fl1e2F1yYedvijESoOxohjuddhoMXGbVexZqeofHZk68gcmkVAfNIghWWkXcR7fuNGpEeyJ4ywOLBK3CIZdptu4Crxgj2tRJs0~zPQIfiJFpvWtnAD9J3QrgMZLS~yaXpYkQHOoT9yrQ5yo2ngatp-akWMlfHsQVaXcebvTvCzSHAL2JrBNOTBQmyBjmtVv1RCGxzFudsw3Ac8RY6E-cDSh5tUAlkLGGl1QFWPh2bNFMLdbM2hXRvZg0li5WyTP5SNwfFb9iyppdslyqaeinXcQGXNX3~EczYBkU4lHuiIq6uBGMz9BmZIFx5RhkkiXSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA target="_blank">PDF</a>
+		</p>
+	</div>
+		<div class="abstract" id="a_rhtor">
+		<p>
+			<b>Abstract</b> - Policymakers in cities worldwide are trying to determine how ride-hailing services affect the ridership of traditional forms of public transportation. The level of convenience and comfort that these services provide is bound to take riders away from transit, but by operating in areas, or at times, when transit is less frequent, they may also be filling a gap left vacant by transit operations. These contradictory effects reveal why we should not merely categorize all ride-hailing services as a substitute or supplement to transit, and demonstrate the need to examine ride-hailing trips individually.
+			Using data from the 2016 Transportation Tomorrow Survey in Toronto, we investigate the differences in travel-times between observed ride-hailing trips and their fastest transit alternatives. Ordinary least squares and ordered logistic regressions are used to uncover the characteristics that influence travel-time differences. We find that ride-hailing trips contained within the City of Toronto, pursued during peak hours, or for shopping purposes, are more likely to have transit alternatives of similar duration. Also, we find differences in travel-time often to be caused by transfers and lengthy walk- and wait-times for transit. Our results further indicate that 31% of ride-hailing trips in our sample have transit alternatives of similar duration (≤15 minute difference). These are particularly damaging for transit agencies as they compete directly with services that fall within reasonable expectations of transit service levels. We also find that 27% of ride-hailing trips would take at least 30 minutes longer by transit, evidence for significant gap-filling opportunity of ride-hailing services. In light of these findings, we discuss recommendations for ride-hailing taxation structures.
+		</p>
 
-	<div id="block"><p><b>Association between residential self-selection and non-residential built environment exposures</b> - Howell, N. A., Farber, S., Widener, M. J., Allen, J., & Booth, G. L. - <i>Health & place</i> - <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1353829218304350", target="_blank">Link</a></p></div>
+		<div class="arrows" onclick="myFunction('rhtor')">
+			<p> ^ </p>
+		</div>
+	</div>
 
-	<div id="block"><p><b>How time-use and transportation barriers limit on-campus participation of university students</b> - Allen, J., & Farber, S. - <i>Travel Behaviour and Society</i> - <a href = "docs/Allen_Farber_2018_TBS_student_participation.pdf", target="_blank">Link</a></p></div>
 
-	<div id="block"><p><b>Transportation barriers to Syrian newcomer participation and settlement in Durham Region</b> - Farber, S., Mifsud, A., Allen, J., Widener, M. J., Newbold, K. B., & Moniruzzaman, M. - <i>Journal of Transport Geography</i> - <a href = "https://www.sciencedirect.com/science/article/abs/pii/S096669231730594X", target="_blank">Link</a></p></div>
 
-	<div id="block"><p><b>Mapping Inequalities of Access to Employment and Quantifying Transport Poverty in Canadian Cities</b> - Allen, J. - <i>University of Toronto</i> - (Master's Thesis) - <a href = "https://uttri.utoronto.ca/files/2018/07/Allen_Jeff_201811_MA_thesis.pdf", target="_blank">Link</a></p></div>
 
-	<div id="block"><p> <b>A new tool for neighbourhood change research: The Canadian Longitudinal Census Tract Database, 1971–2016.</b> - Allen, J., & Taylor, Z. - <i>The Canadian Geographer/Le Géographe canadien</i> - <a href = "docs/Allen_Taylor_2018_TCG_census_tract_database.pdf", target="_blank">Link</a></p></div>
+	<div class="block" >
+		<p><b>A measure of competitive access to destinations for comparing across multiple study regions</b> - Allen, J. & Farber, S. - <i>Geographical Analysis</i></p><br>
+		<p id="abbut" onclick="myFunction('compacc')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href = https://doi.org/10.1111/gean.12188 target = "_blank">URL</a>
+		 &nbsp;|&nbsp;
+		<a href = docs/allen_farber_2019_competitive_accessibility.pdf target="_blank">PDF</a>
+		</p>
+	</div>
+		<div class="abstract" id="a_compacc">
+		<p>
+			<b>Abstract</b> - Accessibility is now a common way to measure the benefits provided by transportation-land use systems. Despite its widespread use, few measurement options allow for the comparison of accessibility across multiple urban systems, and most do not adequately control for market competition between demand-side actors and supply-side facilities in localized markets. In this paper we develop a measure of competitive access to destinations that can be used to accurately compare accessibility between regions. This measure stems from spatial interaction modelling and accounts for competition at both the supply and demand sides of analysis, regional differences in transportation networks and travel behaviour, and any imbalance between the size of the population and the number of opportunities. We use this method to compute access to employment for Canada’s eight largest cities to comparatively examine inequalities in accessibility, both within and between cities, and by travel mode.
+		</p>
 
-	<div id="block"><p><b>Comparative visualizations of transport networks in Calgary using shortest-path trees</b> - Allen, J. - <i>Environment and Planning A: Economy and Space</i> - <a href = "http://journals.sagepub.com/doi/full/10.1177/0308518X17739009", target="_blank">Link</a></p></div>
+		<div class="arrows" onclick="myFunction('compacc')">
+			<p> ^ </p>
+		</div>
+	</div>
 
-	<div id="block"><p style="color:red">2017</p></div>
+
+
+
+
+
+
+	<div class="block" id="year"><p style="color:red">2019</p></div>
+
+
+
+	<div class="block" >
+		<p><b>Measuring the Local Economic Impacts of Replacing On-Street Parking With Bike Lanes</b> - Arancibia, D., Farber, S., Savan, B., Verlinden, Y., Smith Lea, N., Allen, J. & Vernich, L. - <i>Journal of the American Planning Association</i></p><br>
+		<p id="abbut" onclick="myFunction('biketor')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href = https://doi.org/10.1080/01944363.2019.1638816 target = "_blank">URL</a>
+		 <!-- &nbsp;|&nbsp;
+		<a href = https://doi.org/10.1080/01944363.2019.1638816 target="_blank">PDF</a> -->
+		</p>
+	</div>
+		<div class="abstract" id="a_biketor">
+		<p>
+			<b>Abstract</b> - Bike lane projects on retail streets have proved contentious among merchant associations in North America, especially when they reduce on-street parking. A limited but growing number of studies, however, detect neutral to positive consequences for merchants following bike lane implementation. In 2016, the City of Toronto (Canada) removed 136 on-street parking spots and installed a pilot bike lane on a stretch of Bloor Street, a downtown retail corridor. Using a case–control and pre–post design, we surveyed merchants and shoppers to understand the impacts of the bike lanes on economic activities. We find no negative economic impacts associated with the bike lanes: Monthly customer spending and number of customers served by merchants both increased on Bloor Street during the pilot. Our findings are consistent with an improving economic environment at the intervention site. Downtown retail strips may therefore be suited to tolerate bike lanes and even benefit from increased retail activity. Pre and post surveys can provide valuable insights into local economic impacts of streetscape changes affecting merchants along city streets, especially where access to sales data is limited.
+		</p>
+
+		<div class="arrows" onclick="myFunction('biketor')">
+			<p> ^ </p>
+		</div>
+	</div>
+
+
+
+
+
+	<div class="block" >
+		<p><b>Benchmarking Transport Equity in the Greater Toronto and Hamilton Area (GTHA)</b> - Allen, J. & Farber, S. - <i>Transport Findings</i> </p><br>
+		<p id="abbut" onclick="myFunction('teqtor')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p>
+	<p> &nbsp;|&nbsp;
+		<a href = https://doi.org/10.32866/9934 target = "_blank">URL</a>
+		 &nbsp;|&nbsp;
+		<a href = http://jamaps.github.io/docs/allen_farber_2019_benchmarking.pdf target="_blank">PDF</a>
+		</p>
+	</div>
+		<div class="abstract" id="a_teqtor">
+		<p>
+			<b>Abstract</b> - We compute a series of benchmarks and key performance indicators (KPIs) that describe the state of transport equity in the Greater Toronto and Hamilton Area(GTHA). These measures are designed to be simple to interpret, have clear normative interpretations, and be easily replicable in future survey waves or for other regions.
+		</p>
+
+		<div class="arrows" onclick="myFunction('biketor')">
+			<p> ^ </p>
+		</div>
+	</div>
+
+
+
+
+
+
+	<div class="block" >
+		<p><b>Book Review: "The Geography of Urban Transportation"</b> - Allen, J. - <i>The Canadian Geographer/Le Géographe canadien</i> </p><br>
+		<!-- <p id="abbut" onclick="myFunction('cgbook')" style="color:blue" style="cursor:pointer">
+		<a>Abstract</a>
+		</p> -->
+	<p>
+		<a href = https://doi.org/10.1111/cag.12530 target = "_blank">URL</a>
+		 &nbsp;|&nbsp;
+		<a href = http://jamaps.github.io/docs/allen_2019_book_review_trgeo.pdf target="_blank">PDF</a>
+		</p>
+	</div>
+		<!-- <div class="abstract" id="a_cgbook">
+		<p>
+			<b>Abstract</b> - We compute a series of benchmarks and key performance indicators (KPIs) that describe the state of transport equity in the Greater Toronto and Hamilton Area(GTHA). These measures are designed to be simple to interpret, have clear normative interpretations, and be easily replicable in future survey waves or for other regions.
+		</p>
+
+		<div class="arrows" onclick="myFunction('cgbook')">
+			<p> ^ </p>
+		</div> -->
+	</div>
+
+
+
+
+
+
+
+
+	<div class="block"><p><b>Sizing up transport poverty: a national scale accounting of low-income households suffering from inaccessibility in Canada</b> - Allen, J. & Farber, S. - <i>Transport Policy</i> - <a href = "docs/allen_farber_2019_transport_poverty.pdf", target="_blank">Link</a></div>
+
+	<div class="block"><p><b>Mapping differences in access to public libraries by travel mode and time of day</b> - Allen, J. - <i>Library & Information Science Research</i> - <a href = "https://www.sciencedirect.com/science/article/pii/S0740818818301968", target="_blank">Link</a></p></div>
+
+	<div class="block"><p style="color:red">2018</p></div>
+
+	<div class="block"><p><b>Using network segments in the visualization of urban isochrones</b> - Allen, J. - <i>Cartographica</i> - <a href = "docs/allen_2018_isochrones.pdf", target="_blank">Link</a></p></div>
+
+	<div class="block"><p><b>Association between residential self-selection and non-residential built environment exposures</b> - Howell, N. A., Farber, S., Widener, M. J., Allen, J., & Booth, G. L. - <i>Health & place</i> - <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1353829218304350", target="_blank">Link</a></p></div>
+
+	<div class="block"><p><b>How time-use and transportation barriers limit on-campus participation of university students</b> - Allen, J., & Farber, S. - <i>Travel Behaviour and Society</i> - <a href = "docs/Allen_Farber_2018_TBS_student_participation.pdf", target="_blank">Link</a></p></div>
+
+	<div class="block"><p><b>Transportation barriers to Syrian newcomer participation and settlement in Durham Region</b> - Farber, S., Mifsud, A., Allen, J., Widener, M. J., Newbold, K. B., & Moniruzzaman, M. - <i>Journal of Transport Geography</i> - <a href = "https://www.sciencedirect.com/science/article/abs/pii/S096669231730594X", target="_blank">Link</a></p></div>
+
+	<div class="block"><p><b>Mapping Inequalities of Access to Employment and Quantifying Transport Poverty in Canadian Cities</b> - Allen, J. - <i>University of Toronto</i> - (Master's Thesis) - <a href = "https://uttri.utoronto.ca/files/2018/07/Allen_Jeff_201811_MA_thesis.pdf", target="_blank">Link</a></p></div>
+
+	<div class="block"><p> <b>A new tool for neighbourhood change research: The Canadian Longitudinal Census Tract Database, 1971–2016.</b> - Allen, J., & Taylor, Z. - <i>The Canadian Geographer/Le Géographe canadien</i> - <a href = "docs/Allen_Taylor_2018_TCG_census_tract_database.pdf", target="_blank">Link</a></p></div>
+
+	<div class="block"><p><b>Comparative visualizations of transport networks in Calgary using shortest-path trees</b> - Allen, J. - <i>Environment and Planning A: Economy and Space</i> - <a href = "http://journals.sagepub.com/doi/full/10.1177/0308518X17739009", target="_blank">Link</a></p></div>
+
+	<div class="block"><p style="color:red">2017</p></div>
 <!--
 	<div id="block"><p><b>Economic Impact Study of Bike Lanes in Toronto’s Bloor Annex and Korea Town Neighbourhoods</b> - Smith Lea, N., Verlinden, Y., Savan, B., Arancibia, D., Farber, S., Vernich, L., & Allen, J. - TCAT - <a href = "https://tspace.library.utoronto.ca/bitstream/1807/82542/1/Bloor-Economic-Impact-Study-Full-Report-10-11-2017%20%282%29.pdf", target="_blank">Link</a></p></div> -->
 
-	<div id="block"><p><b>Constructing a Routable Retrospective Transit Timetable from a Real-time Vehicle Location Feed and GTFS</b> - Wessel, N., Allen, J., & Farber, S. - <i>Journal of Transport Geography</i> - <a href = "http://www.sciencedirect.com/science/article/pii/S0966692317300388", target="_blank">Link</a></p></div>
+	<div class="block"><p><b>Constructing a Routable Retrospective Transit Timetable from a Real-time Vehicle Location Feed and GTFS</b> - Wessel, N., Allen, J., & Farber, S. - <i>Journal of Transport Geography</i> - <a href = "http://www.sciencedirect.com/science/article/pii/S0966692317300388", target="_blank">Link</a></p></div>
 
-	<div id="block"><p><b>How do changes in the daily food and transportation environments affect healthy food accessibility?</b> - Widener, M., Minaker, L., Farber, S., Allen, J., Vitali, B., Coleman, B., Cook, B. - <i>Applied Geography</i> - <a href = "http://www.sciencedirect.com/science/article/pii/S0143622816303721", target="_blank">Link</a></p></div></p>
+	<div class="block"><p><b>How do changes in the daily food and transportation environments affect healthy food accessibility?</b> - Widener, M., Minaker, L., Farber, S., Allen, J., Vitali, B., Coleman, B., Cook, B. - <i>Applied Geography</i> - <a href = "http://www.sciencedirect.com/science/article/pii/S0143622816303721", target="_blank">Link</a></p></div></p>
 
-	<div id="block"><p><b>Improving Access to Digital Historical Census Boundaries in Canada</b> - Allen, J. & Leahey, A. - <i>ACMLA Bulletin</i> - <a href = "http://jamaps.github.io/docs/Allen_Leahey _2016 _acmla _access_to_historical_census_boundaries.pdf", target="_blank">Link</a></p></div>
+	<div class="block"><p><b>Improving Access to Digital Historical Census Boundaries in Canada</b> - Allen, J. & Leahey, A. - <i>ACMLA Bulletin</i> - <a href = "http://jamaps.github.io/docs/Allen_Leahey _2016 _acmla _access_to_historical_census_boundaries.pdf", target="_blank">Link</a></p></div>
 
 	</div>
 
@@ -257,6 +464,18 @@
 	</div>
 
 
+
+	<script>
+	function myFunction(paper) {
+	  block = document.getElementById("b_" + paper);
+		abstract = document.getElementById("a_" + paper);
+	  if (abstract.style.display === "") {
+	    abstract.style.display = "block";
+	  } else {
+	    abstract.style.display = "";
+	  }
+	}
+	</script>
 
 </body>
 
