@@ -11,6 +11,12 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
+	 <style type="text/css">
+        @font-face {
+            font-family: "Lato", sans-serif;
+            src: url('https://fonts.googleapis.com/css?family=Lato:400,700');
+        }
+    </style>
     <marker
        style="overflow:visible"
        id="marker76676"
