@@ -53,6 +53,12 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+	 <style type="text/css">
+        @font-face {
+            font-family: Lato;
+            src: url('https://fonts.googleapis.com/css?family=Lato:400,700');
+        }
+    </style>
     <marker
        style="overflow:visible"
        id="marker76676"
