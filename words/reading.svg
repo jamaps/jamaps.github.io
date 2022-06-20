@@ -3,13 +3,13 @@
 
 <svg
    width="600"
-   height="3150"
-   viewBox="0 0 158.75 833.43748"
+   height="4510"
+   viewBox="0 0 158.75 1193.2709"
    version="1.1"
    id="svg5"
    sodipodi:docname="reading.svg"
-   inkscape:version="1.2 (1:1.2+202205241504+da316b6974)"
-   inkscape:export-filename="readingw.svg"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   inkscape:export-filename="reading.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.0606912"
-     inkscape:cx="157.91589"
-     inkscape:cy="189.02768"
+     inkscape:zoom="1.5000439"
+     inkscape:cx="280.32513"
+     inkscape:cy="4443.2033"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-grids="false"
@@ -56,7 +56,7 @@
        spacingx="1.3229167"
        spacingy="1.3229167"
        originx="0"
-       originy="10.583349" />
+       originy="10.58335" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -233,12 +233,12 @@
        id="path1001-9" />
     <path
        style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 15.875,1061.472 V 42.33332 -10.583349"
+       d="M 15.875,1444.6251 V 42.33332 -10.583349"
        id="path859"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 42.333334,1052.9952 V 42.33333 -10.583339"
+       d="M 42.333334,1444.6251 V 42.33333 -10.583339"
        id="path859-1"
        sodipodi:nodetypes="ccc" />
     <path
@@ -1755,6 +1755,174 @@
        d="m 10.583334,545.04169 h 31.75"
        id="path1001-9-2-5-0" />
     <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1391.7084 h 31.75"
+       id="path1001-9-1-5-6" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1444.6251 h 31.75"
+       id="path1001-9-2-7-8-2" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1338.7918 h 31.75"
+       id="path1001-9-2-5-9-3-0-6-6" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1285.8751 h 31.75"
+       id="path1001-9-2-5-9-3-3-1" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1232.9584 h 31.75"
+       id="path1001-9-2-5-9-9-8" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,862.5417 h 31.75"
+       id="path1001-9-2-5-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565679"
+       y="837.66748"
+       id="text2231-6-2-6-02"><tspan
+         id="tspan2229-8-8-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565679"
+         y="837.66748">12/20</tspan></text>
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,915.45837 h 31.75"
+       id="path1001-9-2-5-9-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565679"
+       y="890.58417"
+       id="text2231-6-2-6-0-5"><tspan
+         id="tspan2229-8-8-9-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565679"
+         y="890.58417">11/20</tspan></text>
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,968.37504 h 31.75"
+       id="path1001-9-2-5-9-3-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="943.50079"
+       id="text2231-6-2-6-0-8-2"><tspan
+         id="tspan2229-8-8-9-2-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="943.50079">10/20</tspan></text>
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1021.2918 h 31.75"
+       id="path1001-9-2-5-9-3-0-9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="996.41748"
+       id="text2231-6-2-6-0-8-9-7"><tspan
+         id="tspan2229-8-8-9-2-0-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="996.41748">09/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1049.3341"
+       id="text2231-6-2-6-0-6-6"><tspan
+         id="tspan2229-8-8-9-2-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1049.3341">08/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1102.2507"
+       id="text2231-6-2-6-0-8-95-2"><tspan
+         id="tspan2229-8-8-9-2-0-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1102.2507">07/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1155.1674"
+       id="text2231-6-2-6-0-8-9-4-3"><tspan
+         id="tspan2229-8-8-9-2-0-1-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1155.1674">06/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1208.0841"
+       id="text2231-6-2-6-0-8-95-7-9"><tspan
+         id="tspan2229-8-8-9-2-0-0-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1208.0841">05/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1261.0007"
+       id="text2231-6-2-6-0-8-9-4-7-7"><tspan
+         id="tspan2229-8-8-9-2-0-1-8-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1261.0007">04/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1313.9174"
+       id="text2231-6-2-6-0-8-9-4-7-2-4"><tspan
+         id="tspan2229-8-8-9-2-0-1-8-3-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1313.9174">03/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1366.834"
+       id="text2231-6-2-6-0-8-9-4-7-4-0"><tspan
+         id="tspan2229-8-8-9-2-0-1-8-3-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1366.834">02/20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#666666;stroke-width:0.264583"
+       x="1.0565689"
+       y="1419.7506"
+       id="text2231-6-2-6-0-8-9-4-7-2-2-6"><tspan
+         id="tspan2229-8-8-9-2-0-1-8-3-4-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         x="1.0565689"
+         y="1419.7506">01/20</tspan></text>
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1074.2084 h 31.75"
+       id="path1001-9-1-0" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1127.1251 h 31.75"
+       id="path1001-9-2-7-6" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583334,1180.0418 h 31.75"
+       id="path1001-9-2-5-0-3" />
+    <path
        style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 15.794586,414.08764 26.477813,-9.565"
        id="path11262-0-9-4-3-2-3-0"
@@ -1874,6 +2042,261 @@
        id="path6101-3-1-9-3-7-1-1-2-8-2-2"
        cx="15.875"
        cy="806.08722"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.874994,824.57031 26.228663,-7.2935"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65"
+       cx="42.333336"
+       cy="817.25366"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6"
+       cx="15.874994"
+       cy="824.57031"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.874989,861.92285 42.103656,850.36631"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-4"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-7"
+       cx="42.333336"
+       cy="850.3432"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-4"
+       cx="15.874994"
+       cy="857.65985"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.874993,843.67548 42.103655,828.27626"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3"
+       cx="42.333336"
+       cy="828.25311"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7"
+       cx="15.874993"
+       cy="843.67548"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.874989,883.51929 26.36262,-10.96286"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0"
+       cx="42.333336"
+       cy="872.53333"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7"
+       cx="15.874989"
+       cy="883.51929"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.874988,979.888 26.362619,-6.52184"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4"
+       cx="42.333336"
+       cy="973.34308"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3"
+       cx="15.874988"
+       cy="979.888"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.811444,1039.3069 26.42616,-11.3576"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0"
+       cx="42.333336"
+       cy="1027.9261"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6"
+       cx="15.811444"
+       cy="1039.3069"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875,1074.259 26.42616,-11.3576"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1"
+       cx="42.396893"
+       cy="1062.8782"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7"
+       cx="15.875"
+       cy="1074.2589"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.811443,1154.1756 26.42616,-11.3576"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-1"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-1"
+       cx="42.333336"
+       cy="1142.7947"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-5"
+       cx="15.811443"
+       cy="1154.1754"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.867029,1097.4626 26.42616,-11.3576"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-4"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-8"
+       cx="42.388924"
+       cy="1086.0819"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-1"
+       cx="15.867029"
+       cy="1097.4626"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.811439,1177.7504 26.42616,-11.3576"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-4-3"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-8-0"
+       cx="42.333336"
+       cy="1166.3698"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-1-4"
+       cx="15.81144"
+       cy="1177.7505"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.81144,1124.2881 26.426159,-26.3345"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-4-8"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-8-5"
+       cx="42.333336"
+       cy="1097.9307"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-1-0"
+       cx="15.81144"
+       cy="1124.2881"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.893729,1162.9078 26.521898,-33.9343"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-4-8-1"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-8-5-7"
+       cx="42.333336"
+       cy="1128.9735"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-1-0-5"
+       cx="15.811443"
+       cy="1162.9375"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.907174,1081.4943 26.42616,-5.6788"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-43-8-1-9-7"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-0-4-0-1-6"
+       cx="42.429066"
+       cy="1075.7922"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-7-3-6-7-7"
+       cx="15.907174"
+       cy="1081.4943"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.874989,856.92297 26.22866,-17.34354"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-7-9-4"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-65-3-5"
+       cx="42.333336"
+       cy="839.55627"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-6-7-2"
+       cx="15.874989"
+       cy="861.92285"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.874998,974.77209 42.333336,883.59302"
+       id="path11262-0-9-4-3-2-3-0-8-3-9-8-3"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-9-2-3-4-1-6-0-3-4-9-6"
+       cx="42.333336"
+       cy="883.59302"
+       r="1.7161536" />
+    <circle
+       style="fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-3-1-9-3-7-1-1-2-8-2-2-7"
+       cx="15.874998"
+       cy="974.77209"
        r="1.7161536" />
     <text
        xml:space="preserve"
@@ -2296,6 +2719,342 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="885.02222"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="885.02222"
+         id="tspan32685-5-5-3"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="885.02222">The Lord of the Rings</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.257633"
+       y="889.90356"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2"
+         x="46.257633"
+         y="889.90356"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.257633"
+           y="889.90356"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9">J.R.R. Tolkien (1955)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="974.77228"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="974.77228"
+         id="tspan32685-5-5-3-4"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="974.77228">The Little Prince</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="979.65363"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0"
+         x="46.302086"
+         y="979.65363"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="979.65363"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6">Antoine de Saint-Exupéry (1943)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="986.36371"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="986.36371"
+         id="tspan32685-5-5-3-4-6"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="986.36371">The Songlines</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="991.24506"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5"
+         x="46.302086"
+         y="991.24506"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="991.24506"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0">Bruce Chatwin (1987)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1013.514"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1013.514"
+         id="tspan32685-5-5-3-4-6-2"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1013.514">Sapiens</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1018.3953"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2"
+         x="46.302086"
+         y="1018.3953"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1018.3953"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6">Yuval Noah Harari (2011)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1029.5312"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1029.5312"
+         id="tspan32685-5-5-3-4-6-2-5"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1029.5312">The Remains of the Day</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1034.4126"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9"
+         x="46.302086"
+         y="1034.4126"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1034.4126"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0">Kazuo Ishiguro (1989)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1064.3074"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1064.3074"
+         id="tspan32685-5-5-3-4-6-2-5-1"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1064.3074">Lost Horizon</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1069.1887"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9"
+         x="46.302086"
+         y="1069.1887"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1069.1887"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7">James Hilton (1933)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1077.3448"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1077.3448"
+         id="tspan32685-5-5-3-4-6-2-5-1-6"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1077.3448">The Stranger</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1082.2262"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3"
+         x="46.302086"
+         y="1082.2262"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1082.2262"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9">Albert Camus (1942)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1144.2239"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3-9"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1144.2239"
+         id="tspan32685-5-5-3-4-6-2-5-1-6-8"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1144.2239">Breakfast at Tiffany's</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1149.1052"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3-1"
+         x="46.302086"
+         y="1149.1052"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1149.1052"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9-0">Truman Capote (1958)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238583"
+       y="1087.5111"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3-2"><tspan
+         sodipodi:role="line"
+         x="46.238583"
+         y="1087.5111"
+         id="tspan32685-5-5-3-4-6-2-5-1-6-9"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.238583"
+           y="1087.5111">Krakatoa: The Day the World Exploded</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="1092.3925"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3-0"
+         x="46.302086"
+         y="1092.3925"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="1092.3925"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9-8">Simon Winchester (2003)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.145195"
+       y="1130.4027"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3-2-96"><tspan
+         sodipodi:role="line"
+         x="46.145195"
+         y="1130.4027"
+         id="tspan32685-5-5-3-4-6-2-5-1-6-9-2"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.145195"
+           y="1130.4027">The Map That Changed the World</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.208698"
+       y="1135.2841"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3-0-8"
+         x="46.208698"
+         y="1135.2841"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.208698"
+           y="1135.2841"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9-8-5">Simon Winchester (2001)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.083542"
+       y="1099.3599"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3-2-9"><tspan
+         sodipodi:role="line"
+         x="46.083542"
+         y="1099.3599"
+         id="tspan32685-5-5-3-4-6-2-5-1-6-9-6"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.083542"
+           y="1099.3599">Envisioning Information </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.147045"
+       y="1104.2412"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3-0-5"
+         x="46.147045"
+         y="1104.2412"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.147045"
+           y="1104.2412"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9-8-6">Edward Tufte (1990)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.016865"
+       y="1167.801"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-5-1-6-7-1-7-3-2-9-4"><tspan
+         sodipodi:role="line"
+         x="46.016865"
+         y="1167.801"
+         id="tspan32685-5-5-3-4-6-2-5-1-6-9-6-4"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-5-9-4-7-9-1-5-3-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.016865"
+           y="1167.801">The Book of Trees: Visualizing Branches of Knowledge </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.080368"
+       y="1172.6824"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-6-2-9-2-4-5-6-9-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-2-0-5-2-9-9-3-0-5-6"
+         x="46.080368"
+         y="1172.6824"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.080368"
+           y="1172.6824"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-9-6-0-6-0-7-9-8-6-3">Manuel Lima (2014)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
        x="45.9613"
        y="774.50995"
        id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-4-78-7-5-5-9-4-4"><tspan
@@ -2373,6 +3132,174 @@
            x="45.963154"
            y="802.13452"
            id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-5-4-7-0-3-1-6-2-9-4">Michael Palin (1995)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.239952"
+       y="818.76471"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-2"><tspan
+         sodipodi:role="line"
+         x="46.239952"
+         y="818.76471"
+         id="tspan32685-5-3"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.239952"
+           y="818.76471">The Curious Incident of the Dog in the Night-Time</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="45.96452"
+       y="823.64606"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-92"
+         x="45.96452"
+         y="823.64606"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="45.96452"
+           y="823.64606"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-2">Mark Haddon (2003)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.239952"
+       y="873.8819"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-2-1-3-1-0-8"><tspan
+         sodipodi:role="line"
+         x="46.239952"
+         y="873.8819"
+         id="tspan32685-5-5-9"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-1-0-0-7-5-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.239952"
+           y="873.8819">Life of Pi</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.298382"
+       y="878.76324"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-7-5-3-7-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-8-1-9-0-9-6"
+         x="46.298382"
+         y="878.76324"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.298382"
+           y="878.76324"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-57-1-1-4-0-1">Yann Martel (2001)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.238586"
+       y="829.96832"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-4-78-7-5-5-9-4-4-2"><tspan
+         id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-7-6-1-9-0-9-0-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="46.238586"
+         y="829.96832">The Chrysalids</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="834.76044"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-8-8-7-4-9-0-0-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-4-8-2-9-6-8-4-1-1"
+         x="46.302086"
+         y="834.76044"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.302086"
+           y="834.76044"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-5-4-7-0-3-1-6-9-9">John Wyndham (1955)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.239952"
+       y="851.65613"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-4-78-7-5-5-9-4-6-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan46823-7"
+         x="46.239952"
+         y="851.65613"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-7-6-1-9-0-9-0-9-9-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="46.239952"
+           y="851.65613">The War of the Worlds </tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan46825-4"
+         x="46.239952"
+         y="856.94781" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="45.964523"
+       y="856.53741"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-8-8-7-4-9-0-0-8-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-4-8-2-9-6-8-4-7-6-0"
+         x="45.964523"
+         y="856.53741"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="45.964523"
+           y="856.53741"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-5-4-7-0-3-1-6-2-0-3">H.G. Wells (1897)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="45.9613"
+       y="841.112"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-4-78-7-5-5-9-4-6-9-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan46823-7-0"
+         x="45.9613"
+         y="841.112"><tspan
+           id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-7-6-1-9-0-9-0-9-9-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="45.9613"
+           y="841.112">Dooku: Jedi Lost</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan46825-4-1"
+         x="45.9613"
+         y="846.40369" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="45.964523"
+       y="845.99329"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-8-8-7-4-9-0-0-8-3-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-4-8-2-9-6-8-4-7-6-0-5"
+         x="45.964523"
+         y="845.99329"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="45.964523"
+           y="845.99329"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-5-4-7-0-3-1-6-2-0-3-4">Cavan Scott (2019)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="46.302086"
+       y="863.09863"
+       id="text20120-2-0-3-6-6-0-0-2-4-7-2-8-3-9-4-9-7-0-6-7-3-4-78-7-5-5-9-4-6-3-3-6"><tspan
+         id="tspan20118-8-4-0-2-9-4-75-2-4-4-8-0-3-3-9-3-8-1-1-5-6-7-6-1-9-0-9-0-9-2-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="46.302086"
+         y="863.09863">Autonomy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="45.964523"
+       y="867.97992"
+       id="text20120-7-3-8-3-9-3-6-8-0-9-3-8-4-7-9-2-5-2-9-8-9-1-8-8-7-4-9-0-0-8-1-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan107485-3-2-7-5-9-1-9-7-3-2-5-7-5-6-7-2-2-4-8-2-9-6-8-4-7-5-7-6"
+         x="45.964523"
+         y="867.97992"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="45.964523"
+           y="867.97992"
+           id="tspan107487-8-6-0-5-3-4-2-6-2-8-7-0-3-2-9-2-9-5-4-7-0-3-1-6-2-9-4-3">Lawrence D. Burns (2018)</tspan></tspan></text>
     <path
        style="fill:#d5e5ff;stroke:#2a7fff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 15.996293,565.17023 42.405852,550.55902"
@@ -2430,6 +3357,57 @@
        id="path6101-8-4-0-0-6-2-1-8-5-5-7-3-8-8-2-1-8"
        cx="15.875"
        cy="811.79919"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.874998,872.80328 42.17829,861.47398"
+       id="path11262-1-5-4-0-2-3-9-6-9-9-6-6-0-5-6-7-1-8"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-7-0-3-5-7-5-0-7-1-0-7-9-8-9-0-6-2-6"
+       cx="42.333336"
+       cy="861.47394"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-4-0-0-6-2-1-8-5-5-7-3-8-8-2-1-8-8"
+       cx="15.874998"
+       cy="872.80328"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.842807,1008.8678 42.1461,985.00391"
+       id="path11262-1-5-4-0-2-3-9-6-9-9-6-6-0-5-6-7-1-8-8"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-7-0-3-5-7-5-0-7-1-0-7-9-8-9-0-6-2-6-9"
+       cx="42.301147"
+       cy="985.00391"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-4-0-0-6-2-1-8-5-5-7-3-8-8-2-1-8-8-2"
+       cx="15.842807"
+       cy="1008.8678"
+       r="1.7161536" />
+    <path
+       style="fill:#d5e5ff;stroke:#ff2a7f;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.742709,1060.5941 26.458333,-48.294"
+       id="path11262-1-5-4-0-2-3-9-6-9-9-6-6-0-5-6-7-1-8-8-8"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-7-0-3-5-7-5-0-7-1-0-7-9-8-9-0-6-2-6-9-7"
+       cx="42.323883"
+       cy="1012.3234"
+       r="1.7161536" />
+    <circle
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stroke-opacity:1;stop-color:#000000"
+       id="path6101-8-4-0-0-6-2-1-8-5-5-7-3-8-8-2-1-8-8-2-1"
+       cx="15.875"
+       cy="1060.3584"
        r="1.7161536" />
   </g>
 </svg>
