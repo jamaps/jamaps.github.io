@@ -53,19 +53,23 @@ h2 {
 }
 
 a {
-	color: blue;
-	text-decoration: none;
+	color: #2445ff;
+	text-decoration: underline;
+	
 }
 
 h2 a {
-	color: rgb(36, 69, 255);
+	color: #2445ff;
 	text-decoration: none;
+	font-weight: bold;
 
 }
 	
 h1 a {
-	color: red;
+	color: #ff003c;
 	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
 }
 
 .grid {
