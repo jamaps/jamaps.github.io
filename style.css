@@ -32,39 +32,53 @@ div {
 #top h1 {
 	font-family: "Ubuntu", sans-serif;
   	font-weight: 700;
-	font-size: 28px;
+	font-size: 27px;
 	color: black;
 	background-image: repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.05) 0, rgba(0, 0, 0, 0.05) 1px, transparent 0, transparent 50%);
 	background-size: 10px 10px;
 	background-color: #ffffff;
-	border-bottom: solid 2px black;
+	border-bottom: solid 1px rgb(237, 237, 237);
 	padding-bottom: 2px;
 	padding-right: 8px;
-	padding-left: 8px;
+	padding-left: 0px;
 	padding-top: 8px;
 }
 
-p {
-	/* font-family: "Lato", sans-serif; */
-	font-family: "EB Garamond", serif;
-	/* font-weight: 400; */
-	font-size: 16px;
-}
-
 #top p {
-	/* font-family: "Lato", sans-serif; */
 	font-family: "EB Garamond", serif;
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 19px;
 	line-height: 26px;
 	padding-bottom: 16px;
 }
 
-h2 {
+#top h2 {
 	font-family: "Ubuntu", sans-serif;
   	font-weight: 700;
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 1.3;
+}
+
+#top h2 a {
+	color: black;
+	text-decoration: none;
+	padding-bottom: 1px;
+	font-weight: bold;
+	border-bottom: solid 1px black;
+}
+
+#top h2 a:hover {
+	color: rgb(108, 108, 108);
+}
+
+#selected-page {
+	border-bottom: solid 3px black;
+	padding-bottom: 1px;
+}
+
+p {
+	font-family: "EB Garamond", serif;
+	font-size: 16px;
 }
 
 a {
@@ -76,11 +90,14 @@ a:hover {
 	color: rgb(108, 108, 108);
 }
 
-h2 a {
-	color: black;
-	/* color: #2445ff; */
-	text-decoration: none;
-	font-weight: bold;
+h3 {
+	font-family: "Ubuntu", sans-serif;
+  	font-weight: 700;
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-style: italic;
+	/* line-height: 1.3; */
 }
 
 h2 u {
@@ -88,10 +105,7 @@ h2 u {
 }
 	
 h1 a {
-	/* color: #ff003c; */
-	/* color: black; */
 	text-decoration: none;
-	/* font-size: 24px; */
 	font-weight: bold;
 }
 
@@ -100,7 +114,6 @@ h1 a {
 	height: 330px;
 	margin: 0 auto;
 	position: relative;
-	/* background-color: blue; */
 }
 
 .grid-item {
@@ -131,6 +144,54 @@ h1 a {
 .grid-item:hover .grid-label {
     opacity: 1;
   }
+
+
+.grid-maps {
+	max-width: 602px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.grid-maps-item {
+	width: 195px;
+	position: relative;
+	border: solid 1px rgb(239, 239, 239);
+    display: inline-block;
+	margin-bottom: 10px;
+}
+
+.grid-maps-item img {
+	margin-bottom: -5px;
+	width: 195px;
+	height: 195px;
+}
+
+.grid-maps-label {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 4px;
+}
+
+.grid-maps-label a {
+	text-decoration: none;
+}
+
+@media only screen and (max-width: 650px) {
+	.grid-maps {
+		max-width: 350px;
+		padding-left: 30px;
+	}
+	.grid-maps-item {
+		width: 150px;
+	}
+	.grid-maps-item img {
+		width: 150px;
+		height: 150px;
+	}
+}
 
 @media only screen and (max-width: 1550px) {
 	.grid {
@@ -216,7 +277,6 @@ h1 a {
 	height: auto;
 	object-fit: cover;
 }
-
 
 .imgs-grid a img:hover {
 	opacity: 0.75;
